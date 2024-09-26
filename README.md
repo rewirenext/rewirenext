@@ -23,15 +23,15 @@ RewireNext is a dynamic service-based IT company specializing in developing inno
 - Startups and enterprises needing scalable digital transformation
 
 ## 📫 How to reach us...
-- Visit our website: [rewirenext.com](https://rewirenext.com) *(replace with actual link if available)*
-- Email: contact@rewirenext.com
+- Visit our website: [rewirenext.com](https://rewirenext.com)
+- Email: rewirenext@gmail.com
 - LinkedIn: [linkedin.com/company/rewirenext](https://linkedin.com/company/rewirenext)
 
 ## 😄 Pronouns:
 - We are a diverse and inclusive team, so feel free to use "they/them" or any pronouns that best represent your preference when interacting with us!
 
 ## ⚡ Fun fact:
-Did you know? Our team has a combined experience of over 50 years in the tech industry and we’ve worked on projects in over 15 countries! 🌍🚀
+Did you know? Our team has a combined experience of over 10 years in the tech industry and we’ve worked on projects in over 15 countries! 🌍🚀
 
 Let’s innovate and create something extraordinary together!
 
